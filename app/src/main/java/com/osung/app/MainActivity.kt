@@ -1,4 +1,4 @@
-package com.osung.calculator
+package com.osung.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
